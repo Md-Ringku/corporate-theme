@@ -1,0 +1,113 @@
+.service-us h2 {
+    font-weight: 600;
+    font-size: 38px;
+}
+
+.service-tag-right h3 {
+    font-size: 19px;
+    text-align: end;
+    opacity: .7;
+}
+.service-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.service-title h3 {
+    font-weight: 600;
+    font-size: 40px;
+}
+.services-item {
+    position: relative;
+    border: 1px solid #00000026;
+    padding: 33px 24px;
+    border-radius: 7px;
+    margin-right: 24px;
+}
+
+.services-item h4 {
+    font-size: 20px;
+    text-align: center;
+}
+.service-icon {
+    position: absolute;
+    left: -21px;
+    top: 36px;
+    background: white;
+}
+
+.service-icon img {
+    width: 80%;
+}
+.hover-effect:hover{
+    border:1px solid #fab034;
+    transition:.5s;
+}
+
+.everything-item-left h2 {
+    font-weight: 700;
+    padding-right: 41px;
+    font-size: 36px;
+    line-height: 48px;
+}
+.col-md-6.brand-logo-right img {
+    width: 100%;
+}
+.brand-icon span {
+    font-size: 34px;
+    color: #30c39e;
+}
+.brand-left-content {
+    padding-left: 33px;
+}
+
+/*================= contact css =======================*/
+
+
+
+.contact-title {
+    text-align: center;
+    margin-bottom: 67px;
+}
+
+.contact-title h2 {
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.contact-address {
+    text-align: center;
+}
+
+.contact-icon {
+    margin-bottom: 22px;
+}
+
+.contact-left-section input {
+    width: 93%;
+    padding: 14px 10px;
+    margin-bottom: 22px;
+    outline: none;
+    border: 1px solid #0000003b;
+    border-radius: 4px;
+}
+
+textarea#message {
+    width: 93%;
+    outline: none;
+    border-radius: 4px;
+    padding: 35px 10px;
+    border: 1px solid #00000047;
+    margin-top: 10px;
+}
+
+.form-btn a {
+    background: #1dd1a1;
+    color: #fff;
+    padding: 18px 42px;
+    border-radius: 3px;
+}
+
+.form-btn {
+    margin-top: 36px;
+}
